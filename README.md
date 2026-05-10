@@ -3,7 +3,7 @@
 
 Executive-style Power BI report built to support a board-level financial review for a real-world organization, summarizing FY25-26 performance and surfacing forward-looking risk and pipeline signals. Designed for a May 2026 Board Meeting, the report combines KPI summary tiles, a waterfall reconciliation, and aging analysis with a written findings-and-recommendations narrative.
 
-[Show Image](https://claude.ai/local_sessions/powerbi-dashboard-preview.png)
+![Dashboard Preview](powerbi-dashboard-preview.png)
 
 ### Report Design
 The report is structured as a single-page executive summary with the following components:
